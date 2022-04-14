@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  width: 80%;
+  margin: auto;
+}
+.left {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+.right {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid gray;
+  padding: 10px;
+}
+.rightHeading {
+  display: flex;
+}
+.rightBody {
+  display: flex;
+  flex-direction: column;
+}
+img {
+  width: 150px;
+  height: 150px;
+}
+.even {
+  background-color: #127332;
+}
+.odd {
+  background-color: #912792;
+}
+
+@media only screen and (max-width: 375px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+}

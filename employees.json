@@ -1,0 +1,50 @@
+[
+  {
+    "name": "shreya",
+    "empID": "2160248",
+    "DOJ": "31/2/2022",
+    "experince": "3yrs",
+    "location": "Banglore",
+    "tech": "html/css"
+  },
+  {
+    "name": "rahul",
+    "empID": "2132093",
+    "DOJ": "7/10/2021",
+    "experince": "4yrs",
+    "location": "Chennai",
+    "tech": "java"
+  },
+  {
+    "name": "ravi",
+    "empID": "2132094",
+    "DOJ": "7/10/2021",
+    "experince": "4yrs",
+    "location": "Chennai",
+    "tech": "java"
+  },
+  {
+    "name": "rakesh",
+    "empID": "2132095",
+    "DOJ": "7/10/2021",
+    "experince": "4yrs",
+    "location": "Chennai",
+    "tech": "java"
+  },
+  {
+    "name": "rajesh",
+    "empID": "2132096",
+    "DOJ": "7/10/2021",
+    "experince": "4yrs",
+    "location": "Chennai",
+    "tech": "java"
+  },
+  {
+    "name": "ram",
+    "empID": "2132097",
+    "DOJ": "7/10/2021",
+    "experince": "4yrs",
+    "location": "Chennai",
+    "tech": "java"
+  }
+]
