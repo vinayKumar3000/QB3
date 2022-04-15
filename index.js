@@ -50,13 +50,15 @@ function displayRight(employee) {
   const divRightHeading = document.createElement("div");
   divRightHeading.className = "rightHeading";
   const image = document.createElement("img");
-  image.src = "./noImage.jpg";
+  image.src = "./noImg.png";
 
   const divHead = document.createElement("div");
   divHead.className = "heading";
   const h2Name = document.createElement("h2");
+  h2Name.className = "h2Name";
   h2Name.textContent = employee.name;
   const divAssociate = document.createElement("div");
+  divAssociate.className = "associate";
   divAssociate.textContent = "Associate";
   divHead.appendChild(h2Name);
   divHead.appendChild(divAssociate);
@@ -66,15 +68,15 @@ function displayRight(employee) {
   const divRightBody = document.createElement("div");
   divRightBody.className = "rightBody";
   const divRightEmpId = document.createElement("div");
-  divRightEmpId.textContent = "EmpID:" + employee.empId;
+  divRightEmpId.textContent = "EmpID:       " + employee.empID;
   const divRightDOJ = document.createElement("div");
-  divRightDOJ.textContent = "DOJ :" + employee.DOJ;
+  divRightDOJ.textContent = "DOJ:       " + employee.DOJ;
   const divRightExp = document.createElement("div");
-  divRightExp.textContent = "Total Exp :" + employee.experince;
+  divRightExp.textContent = "Total Exp:       " + employee.experince;
   const divRightLocation = document.createElement("div");
-  divRightLocation.textContent = "Work Location :" + employee.location;
+  divRightLocation.textContent = "Work Location:        " + employee.location;
   const divRightTech = document.createElement("div");
-  divRightTech.textContent = "Technologies :" + employee.tech;
+  divRightTech.textContent = "Technologies:       " + employee.tech;
 
   divRightBody.appendChild(divRightEmpId);
   divRightBody.appendChild(divRightDOJ);

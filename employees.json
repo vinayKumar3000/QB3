@@ -3,9 +3,9 @@
     "name": "shreya",
     "empID": "2160248",
     "DOJ": "31/2/2022",
-    "experince": "3yrs",
+    "experince": "15yrs",
     "location": "Banglore",
-    "tech": "html/css"
+    "tech": "html,js,python,etc.."
   },
   {
     "name": "rahul",
@@ -41,10 +41,74 @@
   },
   {
     "name": "ram",
-    "empID": "2132097",
+    "empID": "2132023",
     "DOJ": "7/10/2021",
     "experince": "4yrs",
     "location": "Chennai",
     "tech": "java"
+  },
+  {
+    "name": "vishnu",
+    "empID": "2132043",
+    "DOJ": "7/10/2021",
+    "experince": "4yrs",
+    "location": "Chennai",
+    "tech": "java"
+  },
+  {
+    "name": "shiva",
+    "empID": "2132234",
+    "DOJ": "7/10/2021",
+    "experince": "4yrs",
+    "location": "Chennai",
+    "tech": "java"
+  },
+  {
+    "name": "shreya ghoshal",
+    "empID": "2132323",
+    "DOJ": "7/10/2021",
+    "experince": "5yrs",
+    "location": "Tamil Nadu",
+    "tech": "java"
+  },
+  {
+    "name": "jyothi",
+    "empID": "2132023",
+    "DOJ": "7/10/2021",
+    "experince": "6yrs",
+    "location": "Hyderabad",
+    "tech": "C++"
+  },
+  {
+    "name": "Krishna",
+    "empID": "2132234",
+    "DOJ": "7/10/2021",
+    "experince": "10yrs",
+    "location": "Kolkata",
+    "tech": "Python"
+  },
+  {
+    "name": "Bramha",
+    "empID": "2132133",
+    "DOJ": "7/10/2021",
+    "experince": "4yrs",
+    "location": "Chennai",
+    "tech": "java"
+  },
+  {
+    "name": "Karna",
+    "empID": "2133244",
+    "DOJ": "7/10/2021",
+    "experince": "6yrs",
+    "location": "Mumbai",
+    "tech": "React"
+  },
+  {
+    "name": "Rocky Bhai",
+    "empID": "2133244",
+    "DOJ": "7/10/2021",
+    "experince": "2yrs",
+    "location": "Banglore",
+    "tech": "Node js"
   }
 ]
